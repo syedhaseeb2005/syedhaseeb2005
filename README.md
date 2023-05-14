@@ -1,3 +1,4 @@
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*-ntL3Dsvc-dJ5cLGRtSuEw.gif&tbnid=YX-6heqmtoyG0M&vet=12ahUKEwiC0779vfT-AhUBsUwKHYLhDNIQMygGegUIARCfAg..i&imgrefurl=https%3A%2F%2Ffariza-rafa.medium.com%2F10-web-development-fundamentals-you-should-know-e0d47c23a850&docid=ztfW2cDPczaq9M&w=1240&h=480&q=web%20development%20gif&ved=2ahUKEwiC0779vfT-AhUBsUwKHYLhDNIQMygGegUIARCfAg" />
 <h1 align="center">Hi 👋, I'm Syed Haseeb Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
