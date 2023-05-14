@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/syedhaseeb2005?tab=repositories](https://github.com/syedhaseeb2005?tab=repositories)
 
-- 💬 Ask me about **Html 5 & Css**
+- 💬 Ask me about **Html5 & Css3**
 
 - 📫 How to reach me **haseebsyed901@gmail.com**
 
