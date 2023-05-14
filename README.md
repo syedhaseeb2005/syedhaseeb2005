@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Haseeb Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw2X84hs1tQKIoVTaSF4gal6&ust=1684134954626000&source=images&cd=vfe&ved=2ahUKEwjRlojfofT-AhVgg_0HHYjXD3EQjRx6BAgAEAw">
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 - 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [https://syedhaseeb2005.github.io/Resposive-Portfolio/](https://syedhaseeb2005.github.io/Resposive-Portfolio/)
