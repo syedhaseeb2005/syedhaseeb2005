@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Haseeb Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwjGpYPIofT-AhXlpCcCHZ_ABHIQMygNegUIARC8Ag..i&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwjGpYPIofT-AhXlpCcCHZ_ABHIQMygNegUIARC8Ag">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedhaseeb2005" alt="syedhaseeb2005" /></a> </p>
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw2X84hs1tQKIoVTaSF4gal6&ust=1684134954626000&source=images&cd=vfe&ved=2ahUKEwjRlojfofT-AhVgg_0HHYjXD3EQjRx6BAgAEAw">
 - 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [https://syedhaseeb2005.github.io/Resposive-Portfolio/](https://syedhaseeb2005.github.io/Resposive-Portfolio/)
